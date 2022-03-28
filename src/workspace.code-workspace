@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../vsc"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"fstream": "cpp"
+		}
+	}
+}
